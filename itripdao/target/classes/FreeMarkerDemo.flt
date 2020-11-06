@@ -1,0 +1,5 @@
+--------酒店名字--------
+    <#list hotels as hotel>
+        ${hotel.hotelName}
+    </#list>
+--------酒店名字--------

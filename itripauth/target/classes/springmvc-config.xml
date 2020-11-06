@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:mvc="http://www.springframework.org/schema/mvc"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/mvc
+        http://www.springframework.org/schema/mvc/spring-mvc.xsd
+         http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd">
+	<context:component-scan base-package="cn.itrip"></context:component-scan>
+    
+	<!-- 	视图解析器 作用:把逻辑视图加上前后缀生成实际的物理路径-->
+		<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver"> 
+			<property name="prefix" value="/App/"></property>
+			<property name="suffix" value=".jsp"></property>
+		</bean>
+		<mvc:annotation-driven/>
+	    <mvc:default-servlet-handler />
+<!--		<mvc:resources location="/static/" mapping="/static/**"></mvc:resources>-->
+		<!-- 文件上传 -->
+<!--		 <bean id="multipartResolver" class="org.springframework.web.multipart.commons.CommonsMultipartResolver">-->
+<!--	   		 <property name="maxUploadSize" value="5000000"/>-->
+<!--	   		 <property name="defaultEncoding" value="UTF-8"/>-->
+<!--		</bean>-->
+<!--		<mvc:resources mapping="static/**" location="/static/" />-->
+<!--		<mvc:resources mapping="static/uploadfiles/**" location="/static/uploadfiles/" />-->
+		<!--拦截器-->
+<!--		<mvc:interceptors>-->
+<!--			<mvc:interceptor>-->
+<!--				<mvc:mapping path="/App/**" />-->
+<!--				<mvc:exclude-mapping path="/App/login"/>-->
+<!--				<mvc:exclude-mapping path="/App/loginInfo222"/>-->
+<!--				<bean class="com.bdqn.interceptor.AppInterceptor"/>-->
+<!--			</mvc:interceptor>-->
+<!--&lt;!&ndash;			<mvc:interceptor>&ndash;&gt;-->
+<!--&lt;!&ndash;				<mvc:mapping path="/App/login"/>&ndash;&gt;-->
+<!--&lt;!&ndash;				<bean id="localeChangeInterceptor" class="org.springframework.web.servlet.i18n.LocaleChangeInterceptor">&ndash;&gt;-->
+<!--&lt;!&ndash;					<property name="paramName" value="lang"/>&ndash;&gt;-->
+<!--&lt;!&ndash;				</bean>&ndash;&gt;-->
+<!--&lt;!&ndash;			</mvc:interceptor>&ndash;&gt;-->
+<!--		</mvc:interceptors>-->
+<!--		&lt;!&ndash;国际化资源文件&ndash;&gt;-->
+<!--		<bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource" >-->
+<!--		&lt;!&ndash;  表示多语言配置文件在根路径下，以 language 开头的文件 &ndash;&gt;-->
+<!--			<property name="basename" value="classpath:login"/>-->
+<!--			<property name="useCodeAsDefaultMessage" value="true"/>-->
+<!--			&lt;!&ndash; 支持UTF-8的中文 &ndash;&gt;-->
+<!--			<property name="cacheSeconds" value="0"/>-->
+<!--			<property name="defaultEncoding" value="UTF-8"/>-->
+<!--		</bean>-->
+<!--		&lt;!&ndash;拦截器拦截国际化参数&ndash;&gt;-->
+<!--	    <mvc:interceptors>-->
+<!--			<bean id="localeChangeInterceptor" class="org.springframework.web.servlet.i18n.LocaleChangeInterceptor" >-->
+<!--			<property name="paramName" value="lang"/> </bean>-->
+<!--		</mvc:interceptors>-->
+
+
+		<!--这边一定要配置id并且名称为localeResolver-->
+		<bean id="localeResolver" class="org.springframework.web.servlet.i18n.SessionLocaleResolver"/>
+		<!--全局异常-->
+		<bean class="org.springframework.web.servlet.handler.SimpleMappingExceptionResolver">
+			<property name="exceptionMappings">
+				<props>
+					<prop key="java.lang.Exception">error</prop>
+				</props>
+			</property>
+		</bean>
+</beans>

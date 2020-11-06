@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [06/Nov/2020:11:43:48 +0800] "GET /auth/images/favicon-32x32.png HTTP/1.1" 404 1009 http-bio-8082-exec-2 35
+0:0:0:0:0:0:0:1 - - [06/Nov/2020:11:43:48 +0800] "GET /auth/images/favicon-16x16.png HTTP/1.1" 404 1009 http-bio-8082-exec-3 2
+0:0:0:0:0:0:0:1 - - [06/Nov/2020:11:43:48 +0800] "GET /auth/swagger-resources HTTP/1.1" 200 80 http-bio-8082-exec-1 70
+0:0:0:0:0:0:0:1 - - [06/Nov/2020:11:43:48 +0800] "GET /auth/v2/api-docs HTTP/1.1" 200 6498 http-bio-8082-exec-5 75
+0:0:0:0:0:0:0:1 - - [06/Nov/2020:11:43:48 +0800] "GET /auth/configuration/security HTTP/1.1" 200 81 http-bio-8082-exec-6 3
+0:0:0:0:0:0:0:1 - - [06/Nov/2020:11:43:48 +0800] "GET /auth/configuration/ui HTTP/1.1" 200 153 http-bio-8082-exec-4 3
+127.0.0.1 - - [06/Nov/2020:12:10:44 +0800] "POST /auth/api/dologin HTTP/1.0" 200 70 http-bio-8082-exec-1 140
