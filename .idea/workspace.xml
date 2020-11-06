@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fdc32a4-5d33-422f-b6dc-3b9ae9f15135" name="Default Changelist" comment="" />
+    <list default="true" id="4fdc32a4-5d33-422f-b6dc-3b9ae9f15135" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/itripbiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/itripsearch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripauth/itripauth.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbackend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbeans/itripbeans.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripdao/itripdao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriptrade/itriptrade.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriputils/itriputils.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +78,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -92,11 +114,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -147,6 +174,53 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="itripbackend" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="itripbackend" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -273,7 +347,8 @@
       <workItem from="1604538028748" duration="4614000" />
       <workItem from="1604543900468" duration="11171000" />
       <workItem from="1604573999998" duration="125000" />
-      <workItem from="1604627440633" duration="3052000" />
+      <workItem from="1604627440633" duration="4816000" />
+      <workItem from="1604635580842" duration="877000" />
     </task>
     <servers />
   </component>
@@ -281,6 +356,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="148" key="#Project_Structure" timestamp="1604634181129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="148" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604634181129" />
     <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604546148936">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -301,26 +380,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="450" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1604032070958" />
-    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1604574097618">
+    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1604637076890">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604574097618" />
-    <state width="1493" height="95" key="GridCell.Tab.0.bottom" timestamp="1604560843417">
+    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604637076890" />
+    <state width="1493" height="322" key="GridCell.Tab.0.bottom" timestamp="1604637149997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="95" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604560843417" />
-    <state width="1493" height="95" key="GridCell.Tab.0.center" timestamp="1604560843417">
+    <state width="1493" height="322" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604637149997" />
+    <state width="1493" height="322" key="GridCell.Tab.0.center" timestamp="1604637149997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="95" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604560843417" />
-    <state width="1493" height="95" key="GridCell.Tab.0.left" timestamp="1604560843417">
+    <state width="1493" height="322" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604637149997" />
+    <state width="1493" height="322" key="GridCell.Tab.0.left" timestamp="1604637149996">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="95" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604560843417" />
-    <state width="1493" height="95" key="GridCell.Tab.0.right" timestamp="1604560843417">
+    <state width="1493" height="322" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604637149996" />
+    <state width="1493" height="322" key="GridCell.Tab.0.right" timestamp="1604637149997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="95" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604560843417" />
+    <state width="1493" height="322" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604637149997" />
     <state width="1493" height="227" key="GridCell.Tab.1.bottom" timestamp="1604041976947">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -345,14 +424,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="315" y="102" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604627458448" />
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1604574016224">
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1604635580867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1604574016224" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1604635580867" />
     <state x="390" y="171" width="755" height="548" key="find.popup" timestamp="1603945095951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="390" y="171" width="755" height="548" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603945095951" />
+    <state x="498" y="214" key="git4idea.merge.GitPullDialog" timestamp="1604633400597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="214" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1604633400597" />
     <state x="227" y="67" key="new project wizard" timestamp="1603933776105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
