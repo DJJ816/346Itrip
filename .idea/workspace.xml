@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fdc32a4-5d33-422f-b6dc-3b9ae9f15135" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripbiz/itripbiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itripsearch/itripsearch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripauth/itripauth.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbackend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbeans/itripbeans.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripdao/itripdao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriptrade/itriptrade.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriputils/itriputils.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Mysql" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Mysql" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Mysql" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="itripdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Mysql" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="itripdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\ideaproject\itripbackend\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\apache-maven-3.6.3-bin\Maven-data" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1jGyBLIUbKNksbitJ5YKXGGzSB8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itrip.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaproject\itripbackend\itripbiz\src\main\webapp\WEB-INF" />
+      <recent name="D:\ideaproject\itripbackend\itripdao\src\main\java\cn\itrip\dao" />
+      <recent name="D:\ideaproject\itripbackend\itripbeans\src\main\java\cn\itrip\pojo" />
+      <recent name="D:\ideaproject\itripbackend\itripbiz\src\main\resources" />
+      <recent name="D:\ideaproject\itripbackend\itripauth\src\main\java\cn\itrip\controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.auth">
+    <configuration name="SMSHelp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itrip.biz.SMSHelp" />
+      <module name="itripauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itrip.biz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserAgentUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itrip.common.UserAgentUtil" />
+      <module name="itriputils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itrip.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="textFreeM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itrip.textFreeMarker.textFreeM" />
+      <module name="itripdao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itrip.textFreeMarker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="itripbackend" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="itripbackend" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItripDao" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/itripdao" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="auth" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/itripauth" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="biz" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/itripbiz" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.textFreeM" />
+      <item itemvalue="Application.UserAgentUtil" />
+      <item itemvalue="Application.SMSHelp" />
+      <item itemvalue="Maven.auth" />
+      <item itemvalue="Maven.ItripDao" />
+      <item itemvalue="Maven.biz" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SMSHelp" />
+        <item itemvalue="Application.UserAgentUtil" />
+        <item itemvalue="Application.textFreeM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fdc32a4-5d33-422f-b6dc-3b9ae9f15135" name="Default Changelist" comment="" />
+      <created>1603444586109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603444586109</updated>
+      <workItem from="1603444589021" duration="4445000" />
+      <workItem from="1603449373081" duration="445000" />
+      <workItem from="1603462882853" duration="21000" />
+      <workItem from="1603532684821" duration="140000" />
+      <workItem from="1603692158949" duration="12480000" />
+      <workItem from="1603724644396" duration="1582000" />
+      <workItem from="1603931693899" duration="5345000" />
+      <workItem from="1603944966713" duration="13631000" />
+      <workItem from="1604022053176" duration="15929000" />
+      <workItem from="1604047478705" duration="25000" />
+      <workItem from="1604047545598" duration="143000" />
+      <workItem from="1604109108062" duration="260000" />
+      <workItem from="1604110355199" duration="722000" />
+      <workItem from="1604144421230" duration="1070000" />
+      <workItem from="1604146995041" duration="37000" />
+      <workItem from="1604148931419" duration="14000" />
+      <workItem from="1604373078448" duration="750000" />
+      <workItem from="1604385819265" duration="23483000" />
+      <workItem from="1604453254454" duration="2373000" />
+      <workItem from="1604457520547" duration="284000" />
+      <workItem from="1604538028748" duration="4614000" />
+      <workItem from="1604543900468" duration="11171000" />
+      <workItem from="1604573999998" duration="125000" />
+      <workItem from="1604627440633" duration="4816000" />
+      <workItem from="1604635580842" duration="877000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="148" key="#Project_Structure" timestamp="1604634181129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="148" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604634181129" />
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604546148936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604546148936" />
+    <state x="475" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603695180372">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603695180372" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1604454244673">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1604454244673" />
+    <state x="449" y="373" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603972857643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="373" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1603972857643" />
+    <state width="450" height="466" key="DebuggerActiveHint" timestamp="1604032070958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="450" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1604032070958" />
+    <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1604637076890">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604637076890" />
+    <state width="1493" height="322" key="GridCell.Tab.0.bottom" timestamp="1604637149997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="322" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604637149997" />
+    <state width="1493" height="322" key="GridCell.Tab.0.center" timestamp="1604637149997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="322" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604637149997" />
+    <state width="1493" height="322" key="GridCell.Tab.0.left" timestamp="1604637149996">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="322" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604637149996" />
+    <state width="1493" height="322" key="GridCell.Tab.0.right" timestamp="1604637149997">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="322" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604637149997" />
+    <state width="1493" height="227" key="GridCell.Tab.1.bottom" timestamp="1604041976947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604041976947" />
+    <state width="1493" height="227" key="GridCell.Tab.1.center" timestamp="1604041976947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604041976947" />
+    <state width="1493" height="227" key="GridCell.Tab.1.left" timestamp="1604041976947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604041976947" />
+    <state width="1493" height="227" key="GridCell.Tab.1.right" timestamp="1604041976947">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="227" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604041976947" />
+    <state x="299" y="103" key="Maven.ArtifactSearchDialog" timestamp="1603945863780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="103" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1603945863780" />
+    <state x="315" y="102" key="SettingsEditor" timestamp="1604627458448">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="315" y="102" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604627458448" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1604635580867">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1604635580867" />
+    <state x="390" y="171" width="755" height="548" key="find.popup" timestamp="1603945095951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="390" y="171" width="755" height="548" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603945095951" />
+    <state x="498" y="214" key="git4idea.merge.GitPullDialog" timestamp="1604633400597">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="214" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1604633400597" />
+    <state x="227" y="67" key="new project wizard" timestamp="1603933776105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="227" y="67" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603933776105" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604035802722">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604035802722" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604145279948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604145279948" />
+  </component>
+</project>
