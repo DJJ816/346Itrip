@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itripbiz/itripbiz.iml" filepath="$PROJECT_DIR$/itripbiz/itripbiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itripsearch/itripsearch.iml" filepath="$PROJECT_DIR$/itripsearch/itripsearch.iml" />
+    </modules>
+  </component>
+</project>
