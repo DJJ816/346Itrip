@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itripsearch:war">
+    <output-path>$PROJECT_DIR$/itripsearch/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>itripsearch</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="itripsearch.war">
+      <element id="artifact" artifact-name="itripsearch:war exploded" />
+    </root>
+  </artifact>
+</component>
