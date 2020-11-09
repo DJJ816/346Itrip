@@ -16,8 +16,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="itripauth" target="1.7" />
+      <module name="itripbackend" target="1.5" />
+      <module name="itripbeans" target="1.7" />
       <module name="itripbiz" target="1.7" />
+      <module name="itripdao" target="1.7" />
       <module name="itripsearch" target="1.7" />
+      <module name="itriptrade" target="1.7" />
+      <module name="itriputils" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

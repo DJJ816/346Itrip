@@ -2,26 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fdc32a4-5d33-422f-b6dc-3b9ae9f15135" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itripbiz/itripbiz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/itripsearch/itripsearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/itripbackend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/itripauth_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/itripauth_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/itripbiz_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/itripbiz_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/itripbiz_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/itripbiz_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/itripsearch_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/itripsearch_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/itriptrade_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/itriptrade_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/d.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dd.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itripauth/itripauth.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itripbackend.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itripbeans/itripbeans.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itripdao/itripdao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itriptrade/itriptrade.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/itriputils/itriputils.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripauth/itripauth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itripauth/itripauth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripauth/target/itripauth.war" beforeDir="false" afterPath="$PROJECT_DIR$/itripauth/target/itripauth.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/classes/cn/itrip/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/classes/cn/itrip/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/classes/cn/itrip/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/classes/cn/itrip/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/itripdao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/itripdao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itripauth/target/itripauth/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripauth/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/itripauth/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbeans/itripbeans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itripbeans/itripbeans.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbeans/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itripbeans/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbeans/target/itripbeans-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itripbeans/target/itripbeans-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbeans/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/itripbeans/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbeans/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/itripbeans/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbeans/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/itripbeans/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbeans/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbiz/itripbiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itripbiz/itripbiz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbiz/target/itripbiz.war" beforeDir="false" afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/itripdao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/itripdao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itripbiz/target/itripbiz/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripbiz/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/itripbiz/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripdao/itripdao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itripdao/itripdao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripdao/target/itripdao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itripdao/target/itripdao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripdao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/itripdao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripsearch/itripsearch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itripsearch/itripsearch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripsearch/target/itripsearch.war" beforeDir="false" afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itripsearch/target/itripsearch/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriptrade/itriptrade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itriptrade/itriptrade.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriptrade/target/itriptrade.war" beforeDir="false" afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/itripbeans-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/itripdao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/itripdao-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itriptrade/target/itriptrade/WEB-INF/lib/itriputils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriputils/itriputils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itriputils/itriputils.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriputils/target/itriputils-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itriputils/target/itriputils-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itriputils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/itriputils/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +94,9 @@
       </path>
     </expand>
     <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="itripbackend" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -124,7 +154,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -138,7 +168,7 @@
       <recent name="D:\ideaproject\itripbackend\itripauth\src\main\java\cn\itrip\controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Maven.auth">
+  <component name="RunManager" selected="Application.textFreeM">
     <configuration name="SMSHelp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.itrip.biz.SMSHelp" />
       <module name="itripauth" />
@@ -360,10 +390,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="0" y="148" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604634181129" />
-    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604546148936">
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604893239702">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604546148936" />
+    <state x="361" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604893239702" />
     <state x="475" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603695180372">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -384,22 +414,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604637076890" />
-    <state width="1493" height="322" key="GridCell.Tab.0.bottom" timestamp="1604637149997">
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom" timestamp="1604894062037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="322" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604637149997" />
-    <state width="1493" height="322" key="GridCell.Tab.0.center" timestamp="1604637149997">
+    <state width="1493" height="268" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604894062037" />
+    <state width="1493" height="268" key="GridCell.Tab.0.center" timestamp="1604894062037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="322" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604637149997" />
-    <state width="1493" height="322" key="GridCell.Tab.0.left" timestamp="1604637149996">
+    <state width="1493" height="268" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604894062037" />
+    <state width="1493" height="268" key="GridCell.Tab.0.left" timestamp="1604894062037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="322" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604637149996" />
-    <state width="1493" height="322" key="GridCell.Tab.0.right" timestamp="1604637149997">
+    <state width="1493" height="268" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604894062037" />
+    <state width="1493" height="268" key="GridCell.Tab.0.right" timestamp="1604894062037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="322" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604637149997" />
+    <state width="1493" height="268" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604894062037" />
     <state width="1493" height="227" key="GridCell.Tab.1.bottom" timestamp="1604041976947">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -420,10 +450,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="103" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1603945863780" />
-    <state x="315" y="102" key="SettingsEditor" timestamp="1604627458448">
+    <state x="315" y="102" key="SettingsEditor" timestamp="1604893434089">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="315" y="102" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604627458448" />
+    <state x="315" y="102" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604893434089" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1604894388075">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604894388075" />
     <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1604635580867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -432,10 +466,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="390" y="171" width="755" height="548" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603945095951" />
-    <state x="498" y="214" key="git4idea.merge.GitPullDialog" timestamp="1604633400597">
+    <state x="498" y="214" key="git4idea.merge.GitPullDialog" timestamp="1604894340221">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="214" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1604633400597" />
+    <state x="498" y="214" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1604894340221" />
     <state x="227" y="67" key="new project wizard" timestamp="1603933776105">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -444,9 +478,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604035802722" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604145279948">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604893533232">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604145279948" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604893533232" />
   </component>
 </project>

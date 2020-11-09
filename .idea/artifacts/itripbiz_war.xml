@@ -7,7 +7,7 @@
         <packaging>war</packaging>
       </options>
     </properties>
-    <root id="archive" name="itripbiz-1.0-SNAPSHOT.war">
+    <root id="archive" name="itripbiz.war">
       <element id="artifact" artifact-name="itripbiz:war exploded" />
     </root>
   </artifact>

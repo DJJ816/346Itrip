@@ -1,0 +1,4 @@
+127.0.0.1 - - [09/Nov/2020:11:37:43 +0800] "POST /auth/api/dologin HTTP/1.0" 200 70 http-bio-8082-exec-1 145
+127.0.0.1 - - [09/Nov/2020:11:37:55 +0800] "GET /auth/api/logout HTTP/1.0" 404 981 http-bio-8082-exec-2 8
+127.0.0.1 - - [09/Nov/2020:11:38:41 +0800] "POST /auth/api/registerbyphone HTTP/1.0" 200 70 http-bio-8082-exec-3 39
+127.0.0.1 - - [09/Nov/2020:11:39:02 +0800] "PUT /auth/api/validatephone?user=15643263123&code=7225 HTTP/1.0" 200 76 http-bio-8082-exec-4 4

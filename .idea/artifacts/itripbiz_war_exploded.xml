@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="itripbiz:war exploded">
-    <output-path>$PROJECT_DIR$/itripbiz/target/itripbiz-1.0-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/itripbiz/target/itripbiz</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -14,6 +14,15 @@
           <element id="module-output" name="itripbiz" />
         </element>
         <element id="directory" name="lib">
+          <element id="archive" name="itripdao-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="itripdao" />
+          </element>
+          <element id="archive" name="itriputils-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="itriputils" />
+          </element>
+          <element id="archive" name="itripbeans-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="itripbeans" />
+          </element>
           <element id="library" level="project" name="Maven: org.freemarker:freemarker:2.3.29" />
           <element id="library" level="project" name="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
           <element id="library" level="project" name="Maven: javax.validation:validation-api:1.1.0.Final" />
@@ -27,7 +36,6 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.1.7.RELEASE" />
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.1.7.RELEASE" />
-          <element id="library" level="project" name="Maven: junit:junit:4.1" />
           <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
           <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
           <element id="library" level="project" name="Maven: cglib:cglib:3.2.5" />
@@ -58,17 +66,28 @@
           <element id="library" level="project" name="Maven: redis.clients:jedis:2.9.0" />
           <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.4.2" />
           <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.31" />
+          <element id="library" level="project" name="Maven: cz.mallat.uasparser:uasparser:0.6.1" />
+          <element id="library" level="project" name="Maven: net.sourceforge.jregex:jregex:1.2_01" />
+          <element id="library" level="project" name="Maven: io.springfox:springfox-swagger2:2.4.0" />
+          <element id="library" level="project" name="Maven: io.swagger:swagger-annotations:1.5.6" />
+          <element id="library" level="project" name="Maven: io.swagger:swagger-models:1.5.6" />
+          <element id="library" level="project" name="Maven: io.springfox:springfox-spi:2.4.0" />
+          <element id="library" level="project" name="Maven: io.springfox:springfox-core:2.4.0" />
+          <element id="library" level="project" name="Maven: io.springfox:springfox-schema:2.4.0" />
+          <element id="library" level="project" name="Maven: io.springfox:springfox-swagger-common:2.4.0" />
+          <element id="library" level="project" name="Maven: io.springfox:springfox-spring-web:2.4.0" />
+          <element id="library" level="project" name="Maven: org.springframework.plugin:spring-plugin-core:1.2.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.plugin:spring-plugin-metadata:1.2.0.RELEASE" />
+          <element id="library" level="project" name="Maven: io.springfox:springfox-swagger-ui:2.2.2" />
           <element id="library" level="project" name="Maven: com.google.guava:guava:19.0" />
           <element id="library" level="project" name="Maven: org.mapstruct:mapstruct-jdk8:1.1.0.Final" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.7" />
-          <element id="library" level="project" name="Maven: cz.mallat.uasparser:uasparser:0.6.1" />
-          <element id="library" level="project" name="Maven: net.sourceforge.jregex:jregex:1.2_01" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.7" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.7" />
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/itripbiz/target/itripbiz-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/itripbiz/target/itripbiz/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="itripbiz/web/Web" />
     </root>
